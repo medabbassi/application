@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "686651414997",
+    "firebase_url": "https://appstolearn-c2e74.firebaseio.com",
+    "project_id": "appstolearn-c2e74",
+    "storage_bucket": "appstolearn-c2e74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686651414997:android:e14778ae97d61dc31b055c",
+        "android_client_info": {
+          "package_name": "com.meddevstuff.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686651414997-b6e7bk7uq422kcbnfe57241aioiifucv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTeoMQiRZqiXQUZ3OLzaIl7Hr6TniJfaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686651414997-b6e7bk7uq422kcbnfe57241aioiifucv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
